@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 41727e0ad3a5dfec28a9d216cf0daf60a53404f3 Priya <balireddypriya957@gmail.com> 1750845764 +0530	commit (initial): Initial commit
+41727e0ad3a5dfec28a9d216cf0daf60a53404f3 0000000000000000000000000000000000000000 Priya <balireddypriya957@gmail.com> 1750845779 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 41727e0ad3a5dfec28a9d216cf0daf60a53404f3 Priya <balireddypriya957@gmail.com> 1750845779 +0530	Branch: renamed refs/heads/master to refs/heads/main
+41727e0ad3a5dfec28a9d216cf0daf60a53404f3 eaa10b71e1330b90b79362027c956534fc59fc22 Priya <balireddypriya957@gmail.com> 1750845846 +0530	pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
+eaa10b71e1330b90b79362027c956534fc59fc22 ad3dc53663cac27be21918fc7eef367ad7dca348 Priya <balireddypriya957@gmail.com> 1750846552 +0530	commit: Update submodule reference
+ad3dc53663cac27be21918fc7eef367ad7dca348 98e24e0552da4e77472e68f81dc79c61188c0a7b Priya <balireddypriya957@gmail.com> 1750846626 +0530	pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
+98e24e0552da4e77472e68f81dc79c61188c0a7b c18b8ae48b563e7cf997cca67bbf86e541e955ac Priya <balireddypriya957@gmail.com> 1750846740 +0530	commit: Remove project folder from tracking
+c18b8ae48b563e7cf997cca67bbf86e541e955ac 17fd94b8490eaf872c3583b5a842df032aff2a9a Priya <balireddypriya957@gmail.com> 1750847012 +0530	commit: Re-add project folder as regular folder
